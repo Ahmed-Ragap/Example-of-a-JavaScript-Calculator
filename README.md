@@ -11,7 +11,7 @@
 
 ***
 
-### this website is about a blood-bank-website
+### this website is about a calculate number and do any operation like - + * /
 
 
 
